@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "express-session": "^1.15.6",
-    "next": "^8.0.3",
+    "next": "^13.1.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "styled-components": "^4.3.2",
